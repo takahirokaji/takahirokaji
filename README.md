@@ -1,8 +1,8 @@
+<div textAlign="center" width="100%" display="flex">
+  <img alt="github stats" height="150px" flex="1" src="https://github-readme-stats.vercel.app/api?username=takahirokaji&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" flex="1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takahirokaji&layout=compact&theme=tokyonight" />
+</div>
 
-<p align="left" w="100%"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takahirokaji&show_icons=true&theme=tokyonight" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takahirokaji&layout=compact&theme=tokyonight" />
-</p>
 <!--
 **takahirokaji/takahirokaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
